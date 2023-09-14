@@ -1,0 +1,3151 @@
+{
+  "inspections": [
+    {
+      "id": 1,
+      "inspectionDate": "2023-06-21",
+      "reportState": "PA",
+      "reportNumber": "PAD205317209",
+      "level": 3,
+      "timeWeight": 3,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "ZTB8532"
+    },
+    {
+      "id": 2,
+      "inspectionDate": "2021-07-30",
+      "reportState": "NY",
+      "reportNumber": "NYSPF0172393",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2839104
+    },
+    {
+      "id": 3,
+      "inspectionDate": "2021-08-06",
+      "reportState": "SC",
+      "reportNumber": "SCF320000595",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2834912
+    },
+    {
+      "id": 4,
+      "inspectionDate": "2021-08-19",
+      "reportState": "US",
+      "reportNumber": "US1542001742",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3056978
+    },
+    {
+      "id": 5,
+      "inspectionDate": "2021-08-19",
+      "reportState": "MT",
+      "reportNumber": "MTL234003344",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3058978
+    },
+    {
+      "id": 6,
+      "inspectionDate": "2021-08-25",
+      "reportState": "NY",
+      "reportNumber": "NYSPT0354185",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2345622
+    },
+    {
+      "id": 7,
+      "inspectionDate": "2021-08-25",
+      "reportState": "TX",
+      "reportNumber": "TX63NC9DADDO",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "Yes",
+      "HMInspection": "Yes",
+      "vehiclePlate": 2695972
+    },
+    {
+      "id": 8,
+      "inspectionDate": "2021-09-07",
+      "reportState": "IL",
+      "reportNumber": "IL4069280071",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2835804
+    },
+    {
+      "id": 9,
+      "inspectionDate": "2021-09-12",
+      "reportState": "NC",
+      "reportNumber": "NC0006342411",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3DL237"
+    },
+    {
+      "id": 10,
+      "inspectionDate": "2021-09-16",
+      "reportState": "MS",
+      "reportNumber": "MS6620000756",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2637932
+    },
+    {
+      "id": 11,
+      "inspectionDate": "2021-09-22",
+      "reportState": "CA",
+      "reportNumber": "CAUDGC001145",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3BZ997"
+    },
+    {
+      "id": 12,
+      "inspectionDate": "2021-09-26",
+      "reportState": "AL",
+      "reportNumber": "AL1726000033",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2700425
+    },
+    {
+      "id": 13,
+      "inspectionDate": "2021-09-29",
+      "reportState": "OH",
+      "reportNumber": "OH1931001690",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2721068
+    },
+    {
+      "id": 14,
+      "inspectionDate": "2021-10-07",
+      "reportState": "CA",
+      "reportNumber": "CANE02000822",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3057685
+    },
+    {
+      "id": 15,
+      "inspectionDate": "2021-10-13",
+      "reportState": "CA",
+      "reportNumber": "CANDQX002163",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3054309
+    },
+    {
+      "id": 16,
+      "inspectionDate": "2021-10-18",
+      "reportState": "CA",
+      "reportNumber": "CAN8MC003951",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2835395
+    },
+    {
+      "id": 17,
+      "inspectionDate": "2021-10-26",
+      "reportState": "IL",
+      "reportNumber": "IL3998240322",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2699526
+    },
+    {
+      "id": 18,
+      "inspectionDate": "2021-10-26",
+      "reportState": "MI",
+      "reportNumber": "MIHERLK01156",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2719330
+    },
+    {
+      "id": 19,
+      "inspectionDate": "2021-10-26",
+      "reportState": "CA",
+      "reportNumber": "CANE4O001022",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2722344
+    },
+    {
+      "id": 20,
+      "inspectionDate": "2021-10-08",
+      "reportState": "CA",
+      "reportNumber": "CANE4V001633",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3FN689"
+    },
+    {
+      "id": 21,
+      "inspectionDate": "2021-11-04",
+      "reportState": "GA",
+      "reportNumber": "GA1365001483",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2697065
+    },
+    {
+      "id": 22,
+      "inspectionDate": "2021-11-03",
+      "reportState": "IN",
+      "reportNumber": "IN7429001509",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3057601
+    },
+    {
+      "id": 23,
+      "inspectionDate": "2021-11-04",
+      "reportState": "WA",
+      "reportNumber": "WAW811001592",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3055620
+    },
+    {
+      "id": 24,
+      "inspectionDate": "2021-11-09",
+      "reportState": "VA",
+      "reportNumber": "VA6164004539",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3FN707"
+    },
+    {
+      "id": 25,
+      "inspectionDate": "2021-11-11",
+      "reportState": "OK",
+      "reportNumber": "OKR107150592",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2700441
+    },
+    {
+      "id": 26,
+      "inspectionDate": "2021-11-16",
+      "reportState": "CA",
+      "reportNumber": "CANE28001344",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3CA058"
+    },
+    {
+      "id": 27,
+      "inspectionDate": "2021-11-19",
+      "reportState": "MD",
+      "reportNumber": "MD2379000095",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3056673
+    },
+    {
+      "id": 28,
+      "inspectionDate": "2021-11-20",
+      "reportState": "NM",
+      "reportNumber": "NM6151L905V5",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3058145
+    },
+    {
+      "id": 29,
+      "inspectionDate": "2021-11-22",
+      "reportState": "CA",
+      "reportNumber": "CAUD6P000292",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2700246
+    },
+    {
+      "id": 30,
+      "inspectionDate": "2021-11-22",
+      "reportState": "CA",
+      "reportNumber": "CAUD7O000617",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2698932
+    },
+    {
+      "id": 31,
+      "inspectionDate": "2021-11-27",
+      "reportState": "AR",
+      "reportNumber": "ARB437004031",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3ED534"
+    },
+    {
+      "id": 32,
+      "inspectionDate": "2021-11-29",
+      "reportState": "MS",
+      "reportNumber": "MS5011011051",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2696710
+    },
+    {
+      "id": 33,
+      "inspectionDate": "2021-12-01",
+      "reportState": "MD",
+      "reportNumber": "MD0140000836",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3CA091"
+    },
+    {
+      "id": 34,
+      "inspectionDate": "2021-12-08",
+      "reportState": "WI",
+      "reportNumber": "WI2689001325",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2839315
+    },
+    {
+      "id": 35,
+      "inspectionDate": "2021-12-09",
+      "reportState": "CA",
+      "reportNumber": "CANCG8001723",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3054116
+    },
+    {
+      "id": 36,
+      "inspectionDate": "2021-12-15",
+      "reportState": "PA",
+      "reportNumber": "PAH509134984",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3055112
+    },
+    {
+      "id": 37,
+      "inspectionDate": "2021-12-20",
+      "reportState": "CA",
+      "reportNumber": "CAND00002635",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3054313
+    },
+    {
+      "id": 38,
+      "inspectionDate": "2021-12-30",
+      "reportState": "CA",
+      "reportNumber": "CANDA2003278",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2838798
+    },
+    {
+      "id": 39,
+      "inspectionDate": "2022-01-10",
+      "reportState": "KY",
+      "reportNumber": "KYCV43481997",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2720985
+    },
+    {
+      "id": 40,
+      "inspectionDate": "2022-01-19",
+      "reportState": "CA",
+      "reportNumber": "CAND4P003749",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3CA061"
+    },
+    {
+      "id": 41,
+      "inspectionDate": "2022-01-25",
+      "reportState": "WA",
+      "reportNumber": "WAW517000390",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2720428
+    },
+    {
+      "id": 42,
+      "inspectionDate": "2022-01-27",
+      "reportState": "OH",
+      "reportNumber": "OH3238016071",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2837197
+    },
+    {
+      "id": 43,
+      "inspectionDate": "2022-01-27",
+      "reportState": "WA",
+      "reportNumber": "WAW439000062",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3201800
+    },
+    {
+      "id": 44,
+      "inspectionDate": "2022-01-26",
+      "reportState": "CA",
+      "reportNumber": "CAUG0M001072",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2698776
+    },
+    {
+      "id": 45,
+      "inspectionDate": "2022-02-03",
+      "reportState": "WI",
+      "reportNumber": "WI2207007160",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3FR752"
+    },
+    {
+      "id": 46,
+      "inspectionDate": "2022-02-08",
+      "reportState": "CA",
+      "reportNumber": "CANE4O001445",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3AH498"
+    },
+    {
+      "id": 47,
+      "inspectionDate": "2022-02-15",
+      "reportState": "SC",
+      "reportNumber": "SCS241006995",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3AL943"
+    },
+    {
+      "id": 48,
+      "inspectionDate": "2022-02-15",
+      "reportState": "GA",
+      "reportNumber": "GA1218004071",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2836225
+    },
+    {
+      "id": 49,
+      "inspectionDate": "2022-02-24",
+      "reportState": "AZ",
+      "reportNumber": "AZ0278000932",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3ED442"
+    },
+    {
+      "id": 50,
+      "inspectionDate": "2022-03-02",
+      "reportState": "MD",
+      "reportNumber": "MD0290004182",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2696270
+    },
+    {
+      "id": 51,
+      "inspectionDate": "2022-03-01",
+      "reportState": "CA",
+      "reportNumber": "CANDLP002142",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "Yes",
+      "vehiclePlate": 3200627
+    },
+    {
+      "id": 52,
+      "inspectionDate": "2022-03-01",
+      "reportState": "CA",
+      "reportNumber": "CANDHX003408",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2720999
+    },
+    {
+      "id": 53,
+      "inspectionDate": "2022-03-04",
+      "reportState": "VA",
+      "reportNumber": "VA4810009265",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3058833
+    },
+    {
+      "id": 54,
+      "inspectionDate": "2022-03-10",
+      "reportState": "CA",
+      "reportNumber": "CANBGW003242",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2696987
+    },
+    {
+      "id": 55,
+      "inspectionDate": "2022-03-16",
+      "reportState": "CA",
+      "reportNumber": "CANEAH000273",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3ED415"
+    },
+    {
+      "id": 56,
+      "inspectionDate": "2022-03-22",
+      "reportState": "VA",
+      "reportNumber": "VA7433003979",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3EV088"
+    },
+    {
+      "id": 57,
+      "inspectionDate": "2022-03-24",
+      "reportState": "IL",
+      "reportNumber": "IL0123000028",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 221876
+    },
+    {
+      "id": 58,
+      "inspectionDate": "2022-03-25",
+      "reportState": "CA",
+      "reportNumber": "CAUEHJ002647",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2723482
+    },
+    {
+      "id": 59,
+      "inspectionDate": "2022-03-29",
+      "reportState": "OR",
+      "reportNumber": "ORAASN004340",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2723940
+    },
+    {
+      "id": 60,
+      "inspectionDate": "2022-03-29",
+      "reportState": "CA",
+      "reportNumber": "CANCNY003923",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "Yes",
+      "HMInspection": "Yes",
+      "vehiclePlate": "3EL823"
+    },
+    {
+      "id": 61,
+      "inspectionDate": "2022-03-26",
+      "reportState": "CA",
+      "reportNumber": "CANBGO003640",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3CM480"
+    },
+    {
+      "id": 62,
+      "inspectionDate": "2022-04-05",
+      "reportState": "AL",
+      "reportNumber": "AL1905000185",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 1132793
+    },
+    {
+      "id": 63,
+      "inspectionDate": "2022-04-09",
+      "reportState": "CA",
+      "reportNumber": "CAUF4T001305",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2838876
+    },
+    {
+      "id": 64,
+      "inspectionDate": "2022-04-14",
+      "reportState": "CA",
+      "reportNumber": "CANDUP002557",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "Yes",
+      "HMInspection": "Yes",
+      "vehiclePlate": 3054153
+    },
+    {
+      "id": 65,
+      "inspectionDate": "2022-04-15",
+      "reportState": "CA",
+      "reportNumber": "CANDLS004211",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3200724
+    },
+    {
+      "id": 66,
+      "inspectionDate": "2022-04-21",
+      "reportState": "TN",
+      "reportNumber": "TNTEXF000080",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3204046
+    },
+    {
+      "id": 67,
+      "inspectionDate": "2022-04-26",
+      "reportState": "SC",
+      "reportNumber": "SCK314001978",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3201883
+    },
+    {
+      "id": 68,
+      "inspectionDate": "2022-04-28",
+      "reportState": "IL",
+      "reportNumber": "IL0086002992",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2696268
+    },
+    {
+      "id": 69,
+      "inspectionDate": "2022-04-26",
+      "reportState": "CA",
+      "reportNumber": "CANEAY000447",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2721706
+    },
+    {
+      "id": 70,
+      "inspectionDate": "2022-04-29",
+      "reportState": "GA",
+      "reportNumber": "GA1326002217",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2834923
+    },
+    {
+      "id": 71,
+      "inspectionDate": "2022-05-01",
+      "reportState": "CA",
+      "reportNumber": "CAUCPQ001893",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3CM530"
+    },
+    {
+      "id": 72,
+      "inspectionDate": "2022-05-09",
+      "reportState": "IL",
+      "reportNumber": "IL4127670050",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3057010
+    },
+    {
+      "id": 73,
+      "inspectionDate": "2022-05-10",
+      "reportState": "PA",
+      "reportNumber": "PAH116213032",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "61AH9K"
+    },
+    {
+      "id": 74,
+      "inspectionDate": "2022-05-17",
+      "reportState": "AZ",
+      "reportNumber": "AZ0237009412",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2721587
+    },
+    {
+      "id": 75,
+      "inspectionDate": "2022-05-19",
+      "reportState": "PA",
+      "reportNumber": "PAA208213929",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3057493
+    },
+    {
+      "id": 76,
+      "inspectionDate": "2022-05-23",
+      "reportState": "NC",
+      "reportNumber": "NC0006421323",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2696183
+    },
+    {
+      "id": 77,
+      "inspectionDate": "2022-05-26",
+      "reportState": "PA",
+      "reportNumber": "PAJ106214619",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2721201
+    },
+    {
+      "id": 78,
+      "inspectionDate": "2022-05-17",
+      "reportState": "MN",
+      "reportNumber": "MN0AEE000697",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2838394
+    },
+    {
+      "id": 79,
+      "inspectionDate": "2022-05-28",
+      "reportState": "CA",
+      "reportNumber": "CAND72005250",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2838888
+    },
+    {
+      "id": 80,
+      "inspectionDate": "2022-06-13",
+      "reportState": "CA",
+      "reportNumber": "CAN91G003217",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "Yes",
+      "HMInspection": "Yes",
+      "vehiclePlate": 3723277
+    },
+    {
+      "id": 81,
+      "inspectionDate": "2022-06-05",
+      "reportState": "TX",
+      "reportNumber": "TX6BJE0AML72",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "Yes",
+      "HMInspection": "Yes",
+      "vehiclePlate": 3201851
+    },
+    {
+      "id": 82,
+      "inspectionDate": "2022-06-14",
+      "reportState": "CA",
+      "reportNumber": "CAND3G003682",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2812373
+    },
+    {
+      "id": 83,
+      "inspectionDate": "2022-06-17",
+      "reportState": "NM",
+      "reportNumber": "NM1357M4ODDH",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3056606
+    },
+    {
+      "id": 84,
+      "inspectionDate": "2022-06-18",
+      "reportState": "CA",
+      "reportNumber": "CAN5ZC002101",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2721947
+    },
+    {
+      "id": 85,
+      "inspectionDate": "2022-06-17",
+      "reportState": "CA",
+      "reportNumber": "CAND4P004347",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3201229
+    },
+    {
+      "id": 86,
+      "inspectionDate": "2022-06-21",
+      "reportState": "WA",
+      "reportNumber": "WAW120000370",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2835930
+    },
+    {
+      "id": 87,
+      "inspectionDate": "2022-06-22",
+      "reportState": "PA",
+      "reportNumber": "PAJ315217312",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3EV113"
+    },
+    {
+      "id": 88,
+      "inspectionDate": "2022-06-23",
+      "reportState": "NY",
+      "reportNumber": "NYSPG0193706",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3204614
+    },
+    {
+      "id": 89,
+      "inspectionDate": "2022-07-04",
+      "reportState": "VA",
+      "reportNumber": "VA8914001007",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2839040
+    },
+    {
+      "id": 90,
+      "inspectionDate": "2022-07-05",
+      "reportState": "AR",
+      "reportNumber": "AR713C001726",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3055031
+    },
+    {
+      "id": 91,
+      "inspectionDate": "2022-07-05",
+      "reportState": "NM",
+      "reportNumber": "NM1687M56KST",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2695874
+    },
+    {
+      "id": 92,
+      "inspectionDate": "2022-06-17",
+      "reportState": "CA",
+      "reportNumber": "CAUE03001809",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": "3AH497"
+    },
+    {
+      "id": 93,
+      "inspectionDate": "2022-07-06",
+      "reportState": "NY",
+      "reportNumber": "NYSPB0255985",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3200905
+    },
+    {
+      "id": 94,
+      "inspectionDate": "2022-07-11",
+      "reportState": "AL",
+      "reportNumber": "ALCMAD000879",
+      "level": 3,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2839784
+    },
+    {
+      "id": 95,
+      "inspectionDate": "2022-06-28",
+      "reportState": "NY",
+      "reportNumber": "NY0114016197",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2839482
+    },
+    {
+      "id": 96,
+      "inspectionDate": "2022-07-13",
+      "reportState": "MS",
+      "reportNumber": "MS2016011041",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2722449
+    },
+    {
+      "id": 97,
+      "inspectionDate": "2022-07-17",
+      "reportState": "KY",
+      "reportNumber": "KYCV41754768",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2720792
+    },
+    {
+      "id": 98,
+      "inspectionDate": "2022-07-13",
+      "reportState": "CA",
+      "reportNumber": "CANE7S001113",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 2839614
+    },
+    {
+      "id": 99,
+      "inspectionDate": "2022-07-13",
+      "reportState": "TX",
+      "reportNumber": "TX6CLA0XHX5Z",
+      "level": 2,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3187885
+    },
+    {
+      "id": 100,
+      "inspectionDate": "2022-07-18",
+      "reportState": "CA",
+      "reportNumber": "CAUFJ5000072",
+      "level": 1,
+      "timeWeight": 1,
+      "placarableHMVehInsp": "No",
+      "HMInspection": "No",
+      "vehiclePlate": 3200808
+    }
+  ],
+  "vehicles": [
+    {
+      "inspectionId": 1,
+      "unit": 1,
+      "vehicleIdNumber": "3HAEUMML0NL514491",
+      "unitType": "Straight Truck",
+      "licenseState": "PA",
+      "licenseNumber": "ZTB8532"
+    },
+    {
+      "inspectionId": 2,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR3MN259684",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2839104
+    },
+    {
+      "inspectionId": 3,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV2LSLF0155",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2834912
+    },
+    {
+      "inspectionId": 4,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV9KSKF9589",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3056978
+    },
+    {
+      "inspectionId": 4,
+      "unit": 2,
+      "vehicleIdNumber": "LJRC54262B1D19596",
+      "unitType": "Intermodal Chassis",
+      "licenseState": "OK",
+      "licenseNumber": "2158HA"
+    },
+    {
+      "inspectionId": 5,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV5KSKA4999",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3058978
+    },
+    {
+      "inspectionId": 5,
+      "unit": 2,
+      "vehicleIdNumber": "1GRAA56163K252607",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "4173GL"
+    },
+    {
+      "inspectionId": 6,
+      "unit": 1,
+      "vehicleIdNumber": "1HTMMMML2HH655052",
+      "unitType": "Straight Truck",
+      "licenseState": "IN",
+      "licenseNumber": 2345622
+    },
+    {
+      "inspectionId": 7,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJGHDV6JSJJ2335",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2695972
+    },
+    {
+      "inspectionId": 7,
+      "unit": 2,
+      "vehicleIdNumber": "LJRC54269H1022102",
+      "unitType": "Intermodal Chassis",
+      "licenseState": "OK",
+      "licenseNumber": "BA3083"
+    },
+    {
+      "inspectionId": 8,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR1LN863944",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2835804
+    },
+    {
+      "inspectionId": 9,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR4LN273012",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3DL237"
+    },
+    {
+      "inspectionId": 9,
+      "unit": 2,
+      "vehicleIdNumber": "1GRAA0629KK162345",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OR",
+      "licenseNumber": "HU39144"
+    },
+    {
+      "inspectionId": 10,
+      "unit": 1,
+      "vehicleIdNumber": "1FUJGEDV9JLEZ8939",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2637932
+    },
+    {
+      "inspectionId": 10,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D6LL130111",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P764146"
+    },
+    {
+      "inspectionId": 11,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR1KN708034",
+      "unitType": "Straight Truck",
+      "licenseState": "OK",
+      "licenseNumber": "3BZ997"
+    },
+    {
+      "inspectionId": 11,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D7ML238772",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P855731"
+    },
+    {
+      "inspectionId": 12,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDVXKSKA5766",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2700425
+    },
+    {
+      "inspectionId": 13,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR4KN316147",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2721068
+    },
+    {
+      "inspectionId": 14,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV4NSMG2340",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3057685
+    },
+    {
+      "inspectionId": 14,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V482C1KR899022",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "AN6301"
+    },
+    {
+      "inspectionId": 15,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZTZR4MN385822",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3054309
+    },
+    {
+      "inspectionId": 15,
+      "unit": 2,
+      "vehicleIdNumber": "1UYVS2537H3066345",
+      "unitType": "Semi-Trailer",
+      "licenseState": "ME",
+      "licenseNumber": 3227076
+    },
+    {
+      "inspectionId": 16,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR4LN548636",
+      "unitType": "Straight Truck",
+      "licenseState": "IN",
+      "licenseNumber": 2835395
+    },
+    {
+      "inspectionId": 16,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D0ML233882",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P854173"
+    },
+    {
+      "inspectionId": 17,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJGLDR3HSHR0267",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2699526
+    },
+    {
+      "inspectionId": 17,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D3ML237408",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P854367"
+    },
+    {
+      "inspectionId": 18,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV2KSKA4496",
+      "unitType": "Straight Truck",
+      "licenseState": "IN",
+      "licenseNumber": 2719330
+    },
+    {
+      "inspectionId": 18,
+      "unit": 2,
+      "vehicleIdNumber": "LJRC54265C1004219",
+      "unitType": "Intermodal Chassis",
+      "licenseState": "OK",
+      "licenseNumber": "6008JJ"
+    },
+    {
+      "inspectionId": 19,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV7KSKL3786",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2722344
+    },
+    {
+      "inspectionId": 19,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV482D3JL071323",
+      "unitType": "Semi-Trailer",
+      "licenseState": "ME",
+      "licenseNumber": "314933Z"
+    },
+    {
+      "inspectionId": 20,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR1NN856723",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3FN689"
+    },
+    {
+      "inspectionId": 20,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V532C9HT696553",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OR",
+      "licenseNumber": "HV15253"
+    },
+    {
+      "inspectionId": 21,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHHDR0JSJC6940",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2697065
+    },
+    {
+      "inspectionId": 21,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D5HL011165",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "8211L0"
+    },
+    {
+      "inspectionId": 22,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV6NSNE0083",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3057601
+    },
+    {
+      "inspectionId": 22,
+      "unit": 2,
+      "vehicleIdNumber": "LJRC54266D1001282",
+      "unitType": "Intermodal Chassis",
+      "licenseState": "OK",
+      "licenseNumber": "4135JN"
+    },
+    {
+      "inspectionId": 23,
+      "unit": 1,
+      "vehicleIdNumber": "3HAEUMML4ML593825",
+      "unitType": "Straight Truck",
+      "licenseState": "IN",
+      "licenseNumber": 3055620
+    },
+    {
+      "inspectionId": 24,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV1NSLH0786",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3FN707"
+    },
+    {
+      "inspectionId": 24,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D7HL012334",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "9330L0"
+    },
+    {
+      "inspectionId": 25,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV9KSKA4401",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2700441
+    },
+    {
+      "inspectionId": 25,
+      "unit": 2,
+      "vehicleIdNumber": "LJRC54265G1032043",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "8924KT"
+    },
+    {
+      "inspectionId": 26,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV7KSKF9373",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3CA058"
+    },
+    {
+      "inspectionId": 26,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V281C77T037232",
+      "unitType": "Semi-Trailer",
+      "licenseState": "CA",
+      "licenseNumber": "4RF7596"
+    },
+    {
+      "inspectionId": 27,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV8MSMG1089",
+      "unitType": "Straight Truck",
+      "licenseState": "IN",
+      "licenseNumber": 3056673
+    },
+    {
+      "inspectionId": 27,
+      "unit": 2,
+      "vehicleIdNumber": "1DW1C5323WE240347",
+      "unitType": "Intermodal Chassis",
+      "licenseState": "OK",
+      "licenseNumber": "5245CX"
+    },
+    {
+      "inspectionId": 28,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV0NSLH0889",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3058145
+    },
+    {
+      "inspectionId": 28,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V532C6JR457125",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OR",
+      "licenseNumber": "HV20225"
+    },
+    {
+      "inspectionId": 29,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV9KSKA4320",
+      "unitType": "Straight Truck",
+      "licenseState": "IN",
+      "licenseNumber": 2700246
+    },
+    {
+      "inspectionId": 29,
+      "unit": 2,
+      "vehicleIdNumber": "2MN01AAH731004089",
+      "unitType": "Semi-Trailer",
+      "licenseState": "ME",
+      "licenseNumber": "257866A"
+    },
+    {
+      "inspectionId": 30,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJGEDV4HSHR3297",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2698932
+    },
+    {
+      "inspectionId": 31,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV9LSLG9519",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3ED534"
+    },
+    {
+      "inspectionId": 31,
+      "unit": 2,
+      "vehicleIdNumber": "LJRC54261G1030399",
+      "unitType": "Intermodal Chassis",
+      "licenseState": "OK",
+      "licenseNumber": "3017LX"
+    },
+    {
+      "inspectionId": 32,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR3JN250205",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2696710
+    },
+    {
+      "inspectionId": 32,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D4JL040159",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "BA 5515"
+    },
+    {
+      "inspectionId": 33,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJGEDV7KSKF9436",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3CA091"
+    },
+    {
+      "inspectionId": 33,
+      "unit": 2,
+      "vehicleIdNumber": "5MC424216L3195309",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P855851"
+    },
+    {
+      "inspectionId": 34,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV6MSMG1860",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2839315
+    },
+    {
+      "inspectionId": 34,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D4AL331812",
+      "unitType": "Semi-Trailer",
+      "licenseState": "ME",
+      "licenseNumber": 2727221
+    },
+    {
+      "inspectionId": 35,
+      "unit": 1,
+      "vehicleIdNumber": "3HAEUMML8LL060519",
+      "unitType": "Straight Truck",
+      "licenseState": "IN",
+      "licenseNumber": 3054116
+    },
+    {
+      "inspectionId": 36,
+      "unit": 1,
+      "vehicleIdNumber": "3HAEUMML0ML605159",
+      "unitType": "Straight Truck",
+      "licenseState": "IN",
+      "licenseNumber": 3055112
+    },
+    {
+      "inspectionId": 37,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZTZR2MN385947",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3054313
+    },
+    {
+      "inspectionId": 37,
+      "unit": 2,
+      "vehicleIdNumber": "2MN01AAH861001125",
+      "unitType": "Semi-Trailer",
+      "licenseState": "ME",
+      "licenseNumber": 2666498
+    },
+    {
+      "inspectionId": 38,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV6LSLG9641",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2838798
+    },
+    {
+      "inspectionId": 38,
+      "unit": 2,
+      "vehicleIdNumber": "LJRC5426271002434",
+      "unitType": "Intermodal Chassis",
+      "licenseState": "OK",
+      "licenseNumber": "5362FP"
+    },
+    {
+      "inspectionId": 39,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR2KN187728",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2720985
+    },
+    {
+      "inspectionId": 39,
+      "unit": 2,
+      "vehicleIdNumber": "1GRAA9623AT555657",
+      "unitType": "Semi-Trailer",
+      "licenseState": "NC",
+      "licenseNumber": "AF92123"
+    },
+    {
+      "inspectionId": 40,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV2KSKF9376",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3CA061"
+    },
+    {
+      "inspectionId": 40,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D2KL129830",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P762666"
+    },
+    {
+      "inspectionId": 41,
+      "unit": 1,
+      "vehicleIdNumber": "3AKNHLDR6KSKA4689",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2720428
+    },
+    {
+      "inspectionId": 41,
+      "unit": 2,
+      "vehicleIdNumber": "1E1H5Z488KR066984",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P762333"
+    },
+    {
+      "inspectionId": 42,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR9LN556134",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2837197
+    },
+    {
+      "inspectionId": 42,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532W22L777931",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "6618EB"
+    },
+    {
+      "inspectionId": 43,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZTZR9NN021705",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3201800
+    },
+    {
+      "inspectionId": 43,
+      "unit": 2,
+      "vehicleIdNumber": "1UYFS2488CA295901",
+      "unitType": "Semi-Trailer",
+      "licenseState": "WA",
+      "licenseNumber": "37687AC"
+    },
+    {
+      "inspectionId": 44,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJGEDV8HSHR3061",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2698776
+    },
+    {
+      "inspectionId": 44,
+      "unit": 2,
+      "vehicleIdNumber": "LJRC54266C1002656",
+      "unitType": "Intermodal Chassis",
+      "licenseState": "OK",
+      "licenseNumber": 379455
+    },
+    {
+      "inspectionId": 45,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR7NN827100",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3FR752"
+    },
+    {
+      "inspectionId": 45,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532W02L775238",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "4113DX"
+    },
+    {
+      "inspectionId": 46,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJGEDV7HSJC7026",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3AH498"
+    },
+    {
+      "inspectionId": 46,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V532C0KR113016",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "CC3415"
+    },
+    {
+      "inspectionId": 47,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJGEDV1JSJC7030",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3AL943"
+    },
+    {
+      "inspectionId": 48,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR0LN880217",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2836225
+    },
+    {
+      "inspectionId": 48,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V532C8LR394113",
+      "unitType": "Semi-Trailer",
+      "licenseState": "ME",
+      "licenseNumber": 3035603
+    },
+    {
+      "inspectionId": 49,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR3LN328307",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3ED442"
+    },
+    {
+      "inspectionId": 49,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D1JL014022",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "1070LY"
+    },
+    {
+      "inspectionId": 50,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR0JN247312",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2696270
+    },
+    {
+      "inspectionId": 50,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V532C2MR734082",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P897892"
+    },
+    {
+      "inspectionId": 51,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDVXNSMY0451",
+      "unitType": "Full Trailer",
+      "licenseState": "IN",
+      "licenseNumber": 3200627
+    },
+    {
+      "inspectionId": 51,
+      "unit": 2,
+      "vehicleIdNumber": "3AKJHPDVXNSMY0451",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "AH1041"
+    },
+    {
+      "inspectionId": 52,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR4KN224567",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2720999
+    },
+    {
+      "inspectionId": 52,
+      "unit": 2,
+      "vehicleIdNumber": "1UYVS2538AP014513",
+      "unitType": "Semi-Trailer",
+      "licenseState": "CA",
+      "licenseNumber": "4FY8134"
+    },
+    {
+      "inspectionId": 53,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR4NN162530",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3058833
+    },
+    {
+      "inspectionId": 53,
+      "unit": 2,
+      "vehicleIdNumber": "1NNC04027XM317350",
+      "unitType": "Intermodal Chassis",
+      "licenseState": "TN",
+      "licenseNumber": "092889T"
+    },
+    {
+      "inspectionId": 54,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJGHDV5JSJT7825",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2696987
+    },
+    {
+      "inspectionId": 54,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V532C8JT165012",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P757884"
+    },
+    {
+      "inspectionId": 55,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR4LN326436",
+      "unitType": "Straight Truck",
+      "licenseState": "OK",
+      "licenseNumber": "3ED415"
+    },
+    {
+      "inspectionId": 55,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D4GL932310",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "1537L0"
+    },
+    {
+      "inspectionId": 56,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPRXMN455282",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3EV088"
+    },
+    {
+      "inspectionId": 57,
+      "unit": 1,
+      "vehicleIdNumber": "4V4NC9TGX4N359637",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 221876
+    },
+    {
+      "inspectionId": 58,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV5KSKL3219",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2723482
+    },
+    {
+      "inspectionId": 58,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532B5KL136821",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P758532"
+    },
+    {
+      "inspectionId": 59,
+      "unit": 1,
+      "vehicleIdNumber": "1HTEUMML5LH806883",
+      "unitType": "Straight Truck",
+      "licenseState": "IN",
+      "licenseNumber": 2723940
+    },
+    {
+      "inspectionId": 60,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR0MN112822",
+      "unitType": "Straight Truck",
+      "licenseState": "OK",
+      "licenseNumber": "3EL823"
+    },
+    {
+      "inspectionId": 60,
+      "unit": 2,
+      "vehicleIdNumber": "1UYVS2488AP971009",
+      "unitType": "Semi-Trailer",
+      "licenseState": "TN",
+      "licenseNumber": "U211423"
+    },
+    {
+      "inspectionId": 61,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHHDR5KSKL3293",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3CM480"
+    },
+    {
+      "inspectionId": 61,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V532C39T261027",
+      "unitType": "Semi-Trailer",
+      "licenseState": "ME",
+      "licenseNumber": 2947773
+    },
+    {
+      "inspectionId": 62,
+      "unit": 1,
+      "vehicleIdNumber": "1XKZD40X1HJ164156",
+      "unitType": "Truck Tractor",
+      "licenseState": "AL",
+      "licenseNumber": 1132793
+    },
+    {
+      "inspectionId": 62,
+      "unit": 2,
+      "vehicleIdNumber": 49612510,
+      "unitType": "Semi-Trailer",
+      "licenseState": "AL",
+      "licenseNumber": "A130515"
+    },
+    {
+      "inspectionId": 63,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV7MSLH0693",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2838876
+    },
+    {
+      "inspectionId": 63,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V532K7PS027953",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "PB45123"
+    },
+    {
+      "inspectionId": 64,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPRXMN474088",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3054153
+    },
+    {
+      "inspectionId": 64,
+      "unit": 2,
+      "vehicleIdNumber": "1UYVS2483AP971001",
+      "unitType": "Semi-Trailer",
+      "licenseState": "TN",
+      "licenseNumber": "U211424"
+    },
+    {
+      "inspectionId": 65,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV7NSNE0416",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3200724
+    },
+    {
+      "inspectionId": 65,
+      "unit": 2,
+      "vehicleIdNumber": "13N1482C8F1567988",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "8234LG"
+    },
+    {
+      "inspectionId": 66,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV6PSMY1043",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3204046
+    },
+    {
+      "inspectionId": 66,
+      "unit": 2,
+      "vehicleIdNumber": "LJRC54263G1039279",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "6501LX"
+    },
+    {
+      "inspectionId": 67,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR9NN032534",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3201883
+    },
+    {
+      "inspectionId": 67,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532DXEL836212",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "4055KH"
+    },
+    {
+      "inspectionId": 68,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR7JN246979",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2696268
+    },
+    {
+      "inspectionId": 68,
+      "unit": 2,
+      "vehicleIdNumber": "13N148209C1554135",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": 11175
+    },
+    {
+      "inspectionId": 69,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV3KSKL2909",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2721706
+    },
+    {
+      "inspectionId": 69,
+      "unit": 2,
+      "vehicleIdNumber": "1GR4M0623LH158360",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P764577"
+    },
+    {
+      "inspectionId": 70,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV7LSLF0166",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2834923
+    },
+    {
+      "inspectionId": 71,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV2KSKL2934",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3CM530"
+    },
+    {
+      "inspectionId": 72,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJGLD55ESFH3064",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3057010
+    },
+    {
+      "inspectionId": 73,
+      "unit": 1,
+      "vehicleIdNumber": "2NP3LJ0X2HM417294",
+      "unitType": "Semi-Trailer",
+      "licenseState": "MO",
+      "licenseNumber": "61AH9K"
+    },
+    {
+      "inspectionId": 74,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHHDR3KSKF9922",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2721587
+    },
+    {
+      "inspectionId": 74,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D1PL400853",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "PA55150"
+    },
+    {
+      "inspectionId": 75,
+      "unit": 1,
+      "vehicleIdNumber": "1FVACWFC8LHLG6200",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3057493
+    },
+    {
+      "inspectionId": 76,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR6JN247007",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2696183
+    },
+    {
+      "inspectionId": 76,
+      "unit": 2,
+      "vehicleIdNumber": "1TTF4820861081296",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "SP337RTY"
+    },
+    {
+      "inspectionId": 77,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJGEDR7KSKA4942",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2721201
+    },
+    {
+      "inspectionId": 77,
+      "unit": 2,
+      "vehicleIdNumber": "2LDSD5026KF066445",
+      "unitType": "Semi-Trailer",
+      "licenseState": "ME",
+      "licenseNumber": 3020839
+    },
+    {
+      "inspectionId": 78,
+      "unit": 1,
+      "vehicleIdNumber": "1HTMMMML0HH654837",
+      "unitType": "Straight Truck",
+      "licenseState": "IN",
+      "licenseNumber": 2838394
+    },
+    {
+      "inspectionId": 79,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDVXMSLH0705",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2838888
+    },
+    {
+      "inspectionId": 79,
+      "unit": 2,
+      "vehicleIdNumber": "1GR1P0627LT155176",
+      "unitType": "Semi-Trailer",
+      "licenseState": "ID",
+      "licenseNumber": "TM3647"
+    },
+    {
+      "inspectionId": 80,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHHDR9KSKL3720",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3723277
+    },
+    {
+      "inspectionId": 80,
+      "unit": 2,
+      "vehicleIdNumber": "1UYVS2483M3243111",
+      "unitType": "Semi-Trailer",
+      "licenseState": "TN",
+      "licenseNumber": "105064T"
+    },
+    {
+      "inspectionId": 81,
+      "unit": 1,
+      "vehicleIdNumber": 7401,
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3201851
+    },
+    {
+      "inspectionId": 81,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V532C5JT305002",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "BN2589"
+    },
+    {
+      "inspectionId": 82,
+      "unit": 1,
+      "vehicleIdNumber": "3AKBHHDR1LSLH9353",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2812373
+    },
+    {
+      "inspectionId": 82,
+      "unit": 2,
+      "vehicleIdNumber": "1UYVS2531P7624701",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "PA55980"
+    },
+    {
+      "inspectionId": 83,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV8NSMG2090",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3056606
+    },
+    {
+      "inspectionId": 83,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532B2PL351936",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "PA55551"
+    },
+    {
+      "inspectionId": 84,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR5KN136286",
+      "unitType": "Full Trailer",
+      "licenseState": "IN",
+      "licenseNumber": 2721947
+    },
+    {
+      "inspectionId": 84,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V532C7MR733915",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P897725"
+    },
+    {
+      "inspectionId": 85,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV5NSMY0468",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3201229
+    },
+    {
+      "inspectionId": 85,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D3NL334951",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "PA52108"
+    },
+    {
+      "inspectionId": 86,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV7LSLH0093",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2835930
+    },
+    {
+      "inspectionId": 86,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V482C1FT348002",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P853907"
+    },
+    {
+      "inspectionId": 87,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR0MN462113",
+      "unitType": "Truck Tractor",
+      "licenseState": "OK",
+      "licenseNumber": "3EV113"
+    },
+    {
+      "inspectionId": 87,
+      "unit": 2,
+      "vehicleIdNumber": "1GRDM7424JH733574",
+      "unitType": "Semi-Trailer",
+      "licenseState": "ME",
+      "licenseNumber": "275395C"
+    },
+    {
+      "inspectionId": 88,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR2PN742040",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3204614
+    },
+    {
+      "inspectionId": 88,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D0FL885842",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "4692KS"
+    },
+    {
+      "inspectionId": 89,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV6MSMG0426",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2839040
+    },
+    {
+      "inspectionId": 89,
+      "unit": 2,
+      "vehicleIdNumber": "LJRC5426XB1001749",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "3304JF"
+    },
+    {
+      "inspectionId": 90,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV2KSKA4006",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 3055031
+    },
+    {
+      "inspectionId": 90,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V532C7LT053031",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "AC9659"
+    },
+    {
+      "inspectionId": 91,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR4JN246101",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2695874
+    },
+    {
+      "inspectionId": 91,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV482D7NL337738",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P858715"
+    },
+    {
+      "inspectionId": 92,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJGEDV5HSJC7025",
+      "unitType": "Straight Truck",
+      "licenseState": "OK",
+      "licenseNumber": "3AH497"
+    },
+    {
+      "inspectionId": 92,
+      "unit": 2,
+      "vehicleIdNumber": "3H3V482C2KR899045",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "AN6324"
+    },
+    {
+      "inspectionId": 93,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV1KSKF9277",
+      "unitType": "Straight Truck",
+      "licenseState": "IN",
+      "licenseNumber": 3200905
+    },
+    {
+      "inspectionId": 94,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV5MSMG0580",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2839784
+    },
+    {
+      "inspectionId": 94,
+      "unit": 2,
+      "vehicleIdNumber": "LJRC54264B1015257",
+      "unitType": "Intermodal Chassis",
+      "licenseState": "OK",
+      "licenseNumber": "8618JF"
+    },
+    {
+      "inspectionId": 95,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV7MSMG0502",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2839482
+    },
+    {
+      "inspectionId": 95,
+      "unit": 2,
+      "vehicleIdNumber": ",",
+      "unitType": "Intermodal Chassis",
+      "licenseState": "OK",
+      "licenseNumber": "3772FN"
+    },
+    {
+      "inspectionId": 96,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHHDR7KSKL2999",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2722449
+    },
+    {
+      "inspectionId": 96,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532D5PL345145",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "PA54031"
+    },
+    {
+      "inspectionId": 97,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHPDV3KSKA4779",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2720792
+    },
+    {
+      "inspectionId": 98,
+      "unit": 1,
+      "vehicleIdNumber": "3HSDZAPR7MN386826",
+      "unitType": "Truck Tractor",
+      "licenseState": "IN",
+      "licenseNumber": 2839614
+    },
+    {
+      "inspectionId": 98,
+      "unit": 2,
+      "vehicleIdNumber": "1JJV532B2LL217924",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P852931"
+    },
+    {
+      "inspectionId": 99,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHHDR7LSLR0177",
+      "unitType": "Truck Tractor",
+      "licenseState": "IL",
+      "licenseNumber": 3187885
+    },
+    {
+      "inspectionId": 99,
+      "unit": 2,
+      "vehicleIdNumber": "3H3F532C6KT935004",
+      "unitType": "Semi-Trailer",
+      "licenseState": "IN",
+      "licenseNumber": "P873748"
+    },
+    {
+      "inspectionId": 100,
+      "unit": 1,
+      "vehicleIdNumber": "3AKJHLDV8NSMY0411",
+      "unitType": "Full Trailer",
+      "licenseState": "IN",
+      "licenseNumber": 3200808
+    },
+    {
+      "inspectionId": 100,
+      "unit": 2,
+      "vehicleIdNumber": "LJRC5426XD1004153",
+      "unitType": "Semi-Trailer",
+      "licenseState": "OK",
+      "licenseNumber": "1483KH"
+    }
+  ],
+  "violations": [
+    {
+      "id": 1,
+      "inspectionId": 5,
+      "code": "393.9TS",
+      "description": "Inoperative turn signal",
+      "oos": "N",
+      "time_severity_weight": 6,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 2,
+      "inspectionId": 6,
+      "code": "393.201(b)",
+      "description": "Bolts securing cab broken/loose/missing",
+      "oos": "N",
+      "time_severity_weight": 2,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 3,
+      "inspectionId": 10,
+      "code": "392.2-ML",
+      "description": "Failure to Maintain Lane",
+      "oos": "N",
+      "time_severity_weight": 5,
+      "BASIC": "Unsafe Driving",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 4,
+      "inspectionId": 10,
+      "code": 393.9,
+      "description": "Inoperable Required Lamp",
+      "oos": "Y",
+      "time_severity_weight": 4,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 5,
+      "inspectionId": 10,
+      "code": "393.25(f)",
+      "description": "Stop lamp violations",
+      "oos": "N",
+      "time_severity_weight": 6,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 6,
+      "inspectionId": 10,
+      "code": 393.19,
+      "description": "Inoperative/Defective Hazard Warning Lamp",
+      "oos": "N",
+      "time_severity_weight": 6,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 7,
+      "inspectionId": 11,
+      "code": "392.2-SLLS2",
+      "description": "State/Local Laws - Speeding 6-10 miles per hour over the speed limit.",
+      "oos": "N",
+      "time_severity_weight": 4,
+      "BASIC": "Unsafe Driving",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 8,
+      "inspectionId": 13,
+      "code": "392.2WC",
+      "description": "Wheel (Mud) Flaps missing or defective",
+      "oos": "N",
+      "time_severity_weight": 1,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 9,
+      "inspectionId": 14,
+      "code": "396.5B-HWSLIW",
+      "description": "Hubs - Wheel seal leaking - inner wheel",
+      "oos": "N",
+      "time_severity_weight": 2,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 10,
+      "inspectionId": 16,
+      "code": "396.3A1BL",
+      "description": "Brake system pressure loss",
+      "oos": "N",
+      "time_severity_weight": 4,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 11,
+      "inspectionId": 18,
+      "code": "392.82(a)1",
+      "description": "Using a hand-held mobile telephone while operating a CMV",
+      "oos": "N",
+      "time_severity_weight": 1,
+      "BASIC": "Unsafe Driving",
+      "unit": "D",
+      "convicted_of_dif_charge": "Y"
+    },
+    {
+      "id": 12,
+      "inspectionId": 18,
+      "code": "395.8(e)",
+      "description": "False report of drivers record of duty status",
+      "oos": "N",
+      "time_severity_weight": 7,
+      "BASIC": "HOS Compliance",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 13,
+      "inspectionId": 20,
+      "code": "396.3(a)(1)",
+      "description": "Inspection, repair and maintenance of  parts and accessories",
+      "oos": "N",
+      "time_severity_weight": 2,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 14,
+      "inspectionId": 21,
+      "code": "393.75(a)(3)",
+      "description": "Tire-flat and/or audible air leak",
+      "oos": "Y",
+      "time_severity_weight": 10,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 15,
+      "inspectionId": 22,
+      "code": "392.2-ML",
+      "description": "Failure to Maintain Lane",
+      "oos": "N",
+      "time_severity_weight": 5,
+      "BASIC": "Unsafe Driving",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 16,
+      "inspectionId": 22,
+      "code": "392.2-SLLS2",
+      "description": "State/Local Laws - Speeding 6-10 miles per hour over the speed limit.",
+      "oos": "N",
+      "time_severity_weight": 4,
+      "BASIC": "Unsafe Driving",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 17,
+      "inspectionId": 25,
+      "code": "392.2-SLLS4",
+      "description": "State/Local Laws - Speeding 15 or more miles per hour over the speed limit.",
+      "oos": "N",
+      "time_severity_weight": 10,
+      "BASIC": "Unsafe Driving",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 18,
+      "inspectionId": 26,
+      "code": "393.95(f)",
+      "description": "No / insufficient warning devices",
+      "oos": "N",
+      "time_severity_weight": 2,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 19,
+      "inspectionId": 29,
+      "code": "396.5(b)",
+      "description": "Oil and/or grease leak",
+      "oos": "N",
+      "time_severity_weight": 3,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 20,
+      "inspectionId": 30,
+      "code": "393.75(a)(3)",
+      "description": "Tire-flat and/or audible air leak",
+      "oos": "Y",
+      "time_severity_weight": 10,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 21,
+      "inspectionId": 31,
+      "code": "392.2-SLLS2",
+      "description": "State/Local Laws - Speeding 6-10 miles per hour over the speed limit.",
+      "oos": "N",
+      "time_severity_weight": 4,
+      "BASIC": "Unsafe Driving",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 22,
+      "inspectionId": 32,
+      "code": "392.2WC",
+      "description": "Wheel (Mud) Flaps missing or defective",
+      "oos": "N",
+      "time_severity_weight": 1,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 23,
+      "inspectionId": 33,
+      "code": "393.43(d)",
+      "description": "No or defective automatic trailer brake",
+      "oos": "N",
+      "time_severity_weight": 4,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 24,
+      "inspectionId": 34,
+      "code": "393.75(a)(3)",
+      "description": "Tire-flat and/or audible air leak",
+      "oos": "Y",
+      "time_severity_weight": 10,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 25,
+      "inspectionId": 36,
+      "code": "392.2-ML",
+      "description": "Failure to Maintain Lane",
+      "oos": "N",
+      "time_severity_weight": 5,
+      "BASIC": "Unsafe Driving",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 26,
+      "inspectionId": 36,
+      "code": "392.2-SLLS3",
+      "description": "State/Local Laws - Speeding 11-14 miles per hour over the speed limit.",
+      "oos": "N",
+      "time_severity_weight": 7,
+      "BASIC": "Unsafe Driving",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 27,
+      "inspectionId": 38,
+      "code": 393.9,
+      "description": "Inoperable Required Lamp",
+      "oos": "Y",
+      "time_severity_weight": 4,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 28,
+      "inspectionId": 39,
+      "code": "392.2-SLLS2",
+      "description": "State/Local Laws - Speeding 6-10 miles per hour over the speed limit.",
+      "oos": "N",
+      "time_severity_weight": 4,
+      "BASIC": "Unsafe Driving",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 29,
+      "inspectionId": 40,
+      "code": "396.3A1B",
+      "description": "Brakes (general) Explain: ",
+      "oos": "N",
+      "time_severity_weight": 4,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 30,
+      "inspectionId": 42,
+      "code": 393.9,
+      "description": "Inoperable Required Lamp",
+      "oos": "N",
+      "time_severity_weight": 2,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 31,
+      "inspectionId": 44,
+      "code": "393.75(a)(3)",
+      "description": "Tire-flat and/or audible air leak",
+      "oos": "Y",
+      "time_severity_weight": 10,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 32,
+      "inspectionId": 46,
+      "code": 393.45,
+      "description": "Brake tubing and hose adequacy",
+      "oos": "Y",
+      "time_severity_weight": 6,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 33,
+      "inspectionId": 47,
+      "code": "393.47(e)",
+      "description": "Clamp or Roto type brake out-of-adjustment",
+      "oos": "N",
+      "time_severity_weight": 4,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 34,
+      "inspectionId": 47,
+      "code": 393.9,
+      "description": "Inoperable Required Lamp",
+      "oos": "N",
+      "time_severity_weight": 2,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 35,
+      "inspectionId": 47,
+      "code": "393.53(b)",
+      "description": "CMV manufactured after 10/19/94 has an automatic airbrake adjustment system that fails to compensate for wear",
+      "oos": "N",
+      "time_severity_weight": 4,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 36,
+      "inspectionId": 47,
+      "code": "393.48(a)",
+      "description": "Inoperative/defective brakes",
+      "oos": "Y",
+      "time_severity_weight": 6,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 37,
+      "inspectionId": 48,
+      "code": "383.23(a)(2)",
+      "description": "Operating a CMV without a CDL",
+      "oos": "Y",
+      "time_severity_weight": 10,
+      "BASIC": "Driver Fitness",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 38,
+      "inspectionId": 49,
+      "code": "392.82(a)1",
+      "description": "Using a hand-held mobile telephone while operating a CMV",
+      "oos": "N",
+      "time_severity_weight": 10,
+      "BASIC": "Unsafe Driving",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 39,
+      "inspectionId": 50,
+      "code": "392.2C",
+      "description": "Failure to obey traffic control device",
+      "oos": "N",
+      "time_severity_weight": 5,
+      "BASIC": "Unsafe Driving",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 40,
+      "inspectionId": 52,
+      "code": "393.9(a)",
+      "description": "Inoperative Brake Lamps",
+      "oos": "Y",
+      "time_severity_weight": 8,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 41,
+      "inspectionId": 53,
+      "code": "392.2-SLLS3",
+      "description": "State/Local Laws - Speeding 11-14 miles per hour over the speed limit.",
+      "oos": "N",
+      "time_severity_weight": 7,
+      "BASIC": "Unsafe Driving",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 42,
+      "inspectionId": 59,
+      "code": "391.41(a)(1)",
+      "description": "Operating a property-carrying vehicle without possessing a valid medical certificate - no previous history.",
+      "oos": "N",
+      "time_severity_weight": 1,
+      "BASIC": "Driver Fitness",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 43,
+      "inspectionId": 61,
+      "code": "393.75(a)(3)",
+      "description": "Tire-flat and/or audible air leak",
+      "oos": "N",
+      "time_severity_weight": 8,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 44,
+      "inspectionId": 65,
+      "code": "393.45(b)(2)",
+      "description": "Brake hose or tubing chafing and/or kinking",
+      "oos": "Y",
+      "time_severity_weight": 6,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 45,
+      "inspectionId": 68,
+      "code": "393.207(f)",
+      "description": "Air suspension pressure loss",
+      "oos": "N",
+      "time_severity_weight": 7,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 46,
+      "inspectionId": 68,
+      "code": "393.75(a)(3)",
+      "description": "Tire-flat and/or audible air leak",
+      "oos": "Y",
+      "time_severity_weight": 10,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 47,
+      "inspectionId": 69,
+      "code": "393.45B2PC",
+      "description": "Brake Hose or Tubing Chafing and/or Kinking - Connection to Power Unit",
+      "oos": "N",
+      "time_severity_weight": 4,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 48,
+      "inspectionId": 69,
+      "code": "396.3(a)(1)",
+      "description": "Inspection, repair and maintenance of  parts and accessories",
+      "oos": "N",
+      "time_severity_weight": 2,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 49,
+      "inspectionId": 75,
+      "code": 393.9,
+      "description": "Inoperable Required Lamp",
+      "oos": "N",
+      "time_severity_weight": 2,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 50,
+      "inspectionId": 78,
+      "code": "393.203(b)",
+      "description": "Cab/body improperly secured to frame",
+      "oos": "N",
+      "time_severity_weight": 2,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 51,
+      "inspectionId": 86,
+      "code": "393.207(f)",
+      "description": "Air suspension pressure loss",
+      "oos": "Y",
+      "time_severity_weight": 9,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 52,
+      "inspectionId": 86,
+      "code": "393.9(a)",
+      "description": "Inoperative Brake Lamps",
+      "oos": "N",
+      "time_severity_weight": 6,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 53,
+      "inspectionId": 87,
+      "code": 392.16,
+      "description": "Failing to use seat belt while operating a CMV",
+      "oos": "N",
+      "time_severity_weight": 7,
+      "BASIC": "Unsafe Driving",
+      "unit": "D",
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 54,
+      "inspectionId": 87,
+      "code": "393.9H",
+      "description": "Inoperable head lamps",
+      "oos": "N",
+      "time_severity_weight": 6,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 55,
+      "inspectionId": 88,
+      "code": 393.9,
+      "description": "Inoperable Required Lamp",
+      "oos": "N",
+      "time_severity_weight": 2,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 56,
+      "inspectionId": 91,
+      "code": "393.45B2PC",
+      "description": "Brake Hose or Tubing Chafing and/or Kinking - Connection to Power Unit",
+      "oos": "Y",
+      "time_severity_weight": 6,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 1,
+      "convicted_of_dif_charge": "N"
+    },
+    {
+      "id": 57,
+      "inspectionId": 98,
+      "code": "393.47(e)",
+      "description": "Clamp or Roto type brake out-of-adjustment",
+      "oos": "N",
+      "time_severity_weight": 4,
+      "BASIC": "Vehicle Maintenance",
+      "unit": 2,
+      "convicted_of_dif_charge": "N"
+    }
+  ]
+}
